@@ -2,6 +2,7 @@ import requests
 
 from datetime import datetime
 import smtplib
+import cv2
 
 # defauld constant
 my_latitude = 22.841930
